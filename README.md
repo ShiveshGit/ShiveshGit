@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshgit&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshgit" /> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **HTML, CSS, JS, Django**
